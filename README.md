@@ -1,10 +1,10 @@
 Hi, there👋 
 I am SYED SIKANDAR SHAH
 
-- 👀 interested in WEB DEVELOPMENT.
-- 🌱 currently learning REACT.
+- 👀 Interested in WEB DEVELOPMENT.
+- 🌱 Currently learning REACT.
 - 💞️ Freelancer working on [UPWORK](https://www.upwork.com/freelancers/~0111db188090be018c?viewMode=1) as a WordPress Developer.
-- 📫 contact me on [INSTAGRAM](https://www.instagram.com/sayedsikandarshah/?fbclid=IwAR1C70jIWINqNzyBIjJlv4BYkVChYF_bsDi7rZ7LTmqedCEWHjGQUNsr-tI).
+- 📫 Contact me on [INSTAGRAM](https://www.instagram.com/sayedsikandarshah/?fbclid=IwAR1C70jIWINqNzyBIjJlv4BYkVChYF_bsDi7rZ7LTmqedCEWHjGQUNsr-tI).
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sayed70480&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
