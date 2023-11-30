@@ -16,6 +16,7 @@ Education:
 Bachelor's degree in Software Engineering.
 
 Experience:
+
 ✨ currently working as a Front-End Developer at Touch Tally (Fingerprint Attendance Management System).
 
 ✨Intern at Ford9Solutions.
