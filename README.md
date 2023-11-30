@@ -1,5 +1,5 @@
-Hi, there👋 
-I am Syed Sikandar Shah is a passionate Front-End Developer with expertise in HTML, CSS, JavaScript, React.js, React-Bootstrap, Material-UI, React-Icon, and ShadowCN. He holds a Bachelor's degree in Software Engineering and has completed an internship at Ford9Solutions. Currently, he is working on the Touch Tally project, a fingerprint attendance management system, as a Front-End Developer using Next.js.
+Hi, there👋, 
+I am Syed Sikandar Shah is a passionate Front-End Developer with expertise in HTML, CSS, JavaScript, React.js, React-Bootstrap, Material-UI, React-Icon, and Shadcn. He holds a Bachelor's degree in Software Engineering and has completed an internship at Ford9Solutions. Currently, he is working on the Touch Tally project, a fingerprint attendance management system, as a Front-End Developer using Next.js.
 
 Core Skills:
 HTML5,
