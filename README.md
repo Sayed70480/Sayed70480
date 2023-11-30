@@ -16,7 +16,7 @@ Education:
 Bachelor's degree in Software Engineering.
 
 Experience:
-currently working as a Front-End Developer at Touch Tally (Fingerprint Attendance Management System)
+currently working as a Front-End Developer at Touch Tally (Fingerprint Attendance Management System).
 Intern at Ford9Solutions.
 
 - 💞️ Freelancer working on [UPWORK](https://www.upwork.com/freelancers/~0111db188090be018c?viewMode=1) as a WordPress Developer.
