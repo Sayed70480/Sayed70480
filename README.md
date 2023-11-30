@@ -1,10 +1,26 @@
 Hi, there👋 
-I am SYED SIKANDAR SHAH
+I am Syed Sikandar Shah is a passionate Front-End Developer with expertise in HTML, CSS, JavaScript, React.js, React-Bootstrap, Material-UI, React-Icon, and ShadowCN. He holds a Bachelor's degree in Software Engineering and has completed an internship at Ford9Solutions. Currently, he is working on the Touch Tally project, a fingerprint attendance management system, as a Front-End Developer using Next.js.
 
-- 👀 Interested in WEB DEVELOPMENT.
-- 🌱 Currently learning REACT.
+Core Skills:
+HTML5
+CSS3
+JavaScript
+React.js
+React-Bootstrap
+Material-UI
+React-Icon
+ShadCN
+Next.js
+
+Education:
+Bachelor's degree in Software Engineering
+
+Experience:
+currently working as a Front-End Developer at Touch Tally (Fingerprint Attendance Management System)
+Intern at Ford9Solutions
+
 - 💞️ Freelancer working on [UPWORK](https://www.upwork.com/freelancers/~0111db188090be018c?viewMode=1) as a WordPress Developer.
-- 📫 Contact me on [INSTAGRAM](https://www.instagram.com/sayedsikandarshah/?fbclid=IwAR1C70jIWINqNzyBIjJlv4BYkVChYF_bsDi7rZ7LTmqedCEWHjGQUNsr-tI).
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sayed70480&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
