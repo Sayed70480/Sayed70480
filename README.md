@@ -1,25 +1,20 @@
-Hi, there👋, 
-I am Syed Sikandar Shah is a passionate Front-End Developer with expertise in HTML, CSS, JavaScript, React.js,Next.js, React-Bootstrap, Material-UI, React-Icon, and Shadcn. I have completed a Bachelor's degree in Software Engineering and has completed an internship at Ford9Solutions. Currently, I am working on the Touch Tally project, [a fingerprint attendance management system], as a Front-End Developer using Next.js.
+👋 Welcome to my GitHub! I'm Syed Sikandar Shah, a passionate software engineer specializing in full-stack web development. With hands-on experience at Ford9 Solutions and the National Incubation Center (NIC) at the University of Swat, I've honed my skills in building dynamic and responsive web applications.
 
-Core Skills:
-HTML5,
-CSS3,
-JavaScript,
-React.js,
-React-Bootstrap,
-Material-UI,
-React-Icon,
-Shadcn,
-Next.js,
+💻 At Ford9 Solutions:
+Developed and managed React applications
+Created web pages with HTML, CSS, Material UI, and Bootstrap
+Worked with RESTful APIs and JWT for secure data handling
 
-Education:
-Bachelor's degree in Software Engineering.
+🚀 At NIC:
+Key player in the Touch Tally project, an innovative IoT fingerprint attendance system
+Led UI development with Next.js, Tailwind CSS, and TypeScript
+Collaborated closely with backend and IoT specialists for a robust and user-friendly system.
 
-Experience:
+🌟 Driven by a love for technology and the vibrant startup culture, I'm always exploring new tools and technologies to enhance my development skills. My goal is to leverage my expertise to contribute to impactful projects and drive technological progress.
 
-✨ currently working as a Front-End Developer at Touch Tally (Fingerprint Attendance Management System).
+🔍 Feel free to explore my repositories, where you'll find a variety of projects showcasing my skills in frontend and backend development, as well as my continuous journey towards mastering full-stack development.
 
-✨Intern at Ford9Solutions.
+🤝 Connect with me to discuss opportunities, collaborations, or just to geek out about tech!
 
 - 💞️ Freelancer working on [UPWORK](https://www.upwork.com/freelancers/~0111db188090be018c?viewMode=1) as a WordPress Developer.
 
