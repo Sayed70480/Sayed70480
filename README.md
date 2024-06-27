@@ -2,7 +2,7 @@
 
 —
 
-Hi, I’m Syed Sikandar Shah, a skilled software engineer with more then one year of experience. I’ve completed numerous projects at Ford9 Solutions and the National Incubation Center at the University of Swat. I specialize in building dynamic and responsive web applications.
+Hi, I’m Syed Sikandar Shah, a skilled software engineer with more then one year of experience. I’ve completed numerous projects at Fordnine Solutions Company and the National Incubation Center at the University of Swat. I specialize in building dynamic and responsive web applications.
 
 
 During my tenure at Ford9 Solutions, I developed and managed React applications and created web pages using HTML, CSS, Material UI, and Bootstrap. At NIC, I was a key player in the Touch Tally project, an innovative IoT fingerprint attendance system.
