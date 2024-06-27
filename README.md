@@ -1,26 +1,40 @@
-👋 Welcome to my GitHub! I'm Syed Sikandar Shah, a passionate software engineer specializing in MERN Stack development. With hands-on experience at Ford9 Solutions and the National Incubation Center (NIC) at the University of Swat, I've honed my skills in building dynamic and responsive web applications.
+🌐 HTML5, 🖌️ CSS3, 🎨 TailwindCSS, 🅱️ Bootstrap, 👨‍💻 JavaScript, 📚 TypeScript, 🖥️ Material UI, 💎 Next UI, ⚛️ React.js, 🚀 Next.js, 🔙 Node.js, 🖇️ Express.js, 🛢️ MongoDB, 🌐 RESTful API, 🔒 JWT, 🛡️ Bcrypt, 📘 C++, 🌳 Git, 📁 GitHub, 🎨 Figma, 🌍 WordPress, 🏢 Microsoft Office, 🌐 Hostinger, 🗃️ Basic SQL
 
-💻 At Ford9 Solutions:
-Developed and managed React applications
-Created web pages with HTML, CSS, Material UI, and Bootstrap
-Worked with RESTful APIs and JWT for secure data handling
+—
 
-🚀 At NIC:
-Key player in the Touch Tally project, an innovative IoT fingerprint attendance system
-Led UI development with Next.js, Tailwind CSS, and TypeScript
-Collaborated closely with backend and IoT specialists for a robust and user-friendly system.
+Hi, I’m Syed Sikandar Shah, a skilled software engineer with over 3 years of experience. I’ve completed numerous projects at Ford9 Solutions and the National Incubation Center at the University of Swat. I specialize in building dynamic and responsive web applications.
 
-🔧 Skills:
 
-Frontend: HTML5, CSS3, TailwindCSS, Bootstrap, JavaScript, TypeScript, Material UI, Next UI, React.js, Next.js.                                                        
-Backend: Node.js, Express.js, MongoDB, RESTful API, JWT, Bcrypt.                                                                                                       
-Other: C++, Git, GitHub, Figma, WordPress, Microsoft Office, Hostinger, Basic SQL
+During my tenure at Ford9 Solutions, I developed and managed React applications and created web pages using HTML, CSS, Material UI, and Bootstrap. At NIC, I was a key player in the Touch Tally project, an innovative IoT fingerprint attendance system.
 
-🌟 Driven by a love for technology and the vibrant startup culture, I'm always exploring new tools and technologies to enhance my development skills. My goal is to leverage my expertise to contribute to impactful projects and drive technological progress.
+I’m passionate about technology and the startup culture. I’m constantly exploring new tools and technologies to enhance my development skills. Let’s work together to create impactful projects and drive technological progress.
 
-🔍 Feel free to explore my repositories, where you'll find a variety of projects showcasing my skills in frontend and backend development, as well as my continuous journey towards mastering full-stack development.
+—
 
-🤝 Connect with me to discuss opportunities, collaborations, or just to geek out about tech!
+🌐 **HTML5:** Proficient in creating structured, semantic web content using the latest HTML standards.
+
+🖌️ **CSS3:** Skilled in styling web pages with advanced CSS techniques and frameworks like TailwindCSS and Bootstrap.
+
+⚛️ **React.js:** Experienced in building dynamic and responsive user interfaces with React.
+
+🔙 **Node.js:** Capable of setting up robust backend systems using Node.js and Express.js.
+
+🛢️ **MongoDB:** Familiar with database management and schema design using MongoDB.
+
+📘 **C++:** Solid foundation in programming principles and algorithm development with C++.
+
+
+🌳 **Git:** Efficient in version control practices using Git and GitHub.
+
+🎨 **Figma:** Able to design and create prototypes using Figma.
+
+🌍 **WordPress:** Experienced in setting up and customizing WordPress sites.
+
+💎 **Next UI:** Skilled in utilizing Next.js for server-side rendering and building static web applications.
+
+🔒 **JWT:** Knowledgeable in implementing secure authentication using JSON Web Tokens.
+
+💪🏽 Let’s bring your project to life with innovative and efficient solutions. Contact me to discuss opportunities or collaborations!
 
 - 💞️ Freelancer working on [UPWORK](https://www.upwork.com/freelancers/~0111db188090be018c?viewMode=1) as a Full stack Developer.
 
