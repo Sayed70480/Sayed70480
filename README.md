@@ -12,7 +12,7 @@ Collaborated closely with backend and IoT specialists for a robust and user-frie
 
 🔧 Skills:
 
-Frontend: HTML5, CSS3, TailwindCSS, Bootstrap, JavaScript, TypeScript, Material UI, Next UI, React.js, Next.js.
+Frontend: HTML5, CSS3, TailwindCSS, Bootstrap, JavaScript, TypeScript, Material UI, Next UI, React.js, Next.js.                                                        
 Backend: Node.js, Express.js, MongoDB, RESTful API, JWT, Bcrypt
 Other: C++, Git, GitHub, Figma, WordPress, Microsoft Office, Hostinger, Basic SQL
 
