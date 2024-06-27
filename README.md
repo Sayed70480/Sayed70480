@@ -22,7 +22,7 @@ Other: C++, Git, GitHub, Figma, WordPress, Microsoft Office, Hostinger, Basic SQ
 
 🤝 Connect with me to discuss opportunities, collaborations, or just to geek out about tech!
 
-- 💞️ Freelancer working on [UPWORK](https://www.upwork.com/freelancers/~0111db188090be018c?viewMode=1) as a WordPress Developer.
+- 💞️ Freelancer working on [UPWORK](https://www.upwork.com/freelancers/~0111db188090be018c?viewMode=1) as a Full stack Developer.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sayed70480&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
