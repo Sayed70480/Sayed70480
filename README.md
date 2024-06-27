@@ -10,6 +10,12 @@ Key player in the Touch Tally project, an innovative IoT fingerprint attendance 
 Led UI development with Next.js, Tailwind CSS, and TypeScript
 Collaborated closely with backend and IoT specialists for a robust and user-friendly system.
 
+🔧 Skills:
+
+Frontend: HTML5, CSS3, TailwindCSS, Bootstrap, JavaScript, TypeScript, Material UI, Next UI, React.js, Next.js
+Backend: Node.js, Express.js, MongoDB, RESTful API, JWT, Bcrypt
+Other: C++, Git, GitHub, Figma, WordPress, Microsoft Office, Hostinger, Basic SQL
+
 🌟 Driven by a love for technology and the vibrant startup culture, I'm always exploring new tools and technologies to enhance my development skills. My goal is to leverage my expertise to contribute to impactful projects and drive technological progress.
 
 🔍 Feel free to explore my repositories, where you'll find a variety of projects showcasing my skills in frontend and backend development, as well as my continuous journey towards mastering full-stack development.
