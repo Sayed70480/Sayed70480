@@ -1,4 +1,4 @@
-👋 Welcome to my GitHub! I'm Syed Sikandar Shah, a passionate software engineer specializing in full-stack web development. With hands-on experience at Ford9 Solutions and the National Incubation Center (NIC) at the University of Swat, I've honed my skills in building dynamic and responsive web applications.
+👋 Welcome to my GitHub! I'm Syed Sikandar Shah, a passionate software engineer specializing in MERN Stack development. With hands-on experience at Ford9 Solutions and the National Incubation Center (NIC) at the University of Swat, I've honed my skills in building dynamic and responsive web applications.
 
 💻 At Ford9 Solutions:
 Developed and managed React applications
